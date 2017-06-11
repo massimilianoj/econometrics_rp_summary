@@ -1,0 +1,18 @@
+---
+title: "Title"
+author: "Your name^[affiliation]"
+date: '`r format(Sys.time(), "%d %m, %Y")`'
+output: pdf_document
+fontsize: 12pt
+classoption: a4paper
+---
+
+1. What is the paper about? Theories, models, etc.
+
+2. What type of econometric models or techniques does it use? E.g. OLS, GARCH, etc.
+
+3. What are the important variables used in these models?
+
+4. What data does it use and where will you obtain it from?
+
+5. Summarise the main empirical results.
