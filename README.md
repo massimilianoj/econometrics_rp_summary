@@ -1,4 +1,4 @@
-# rp: Summary (2017Q2)
+# rp: Article Proposal (2017Q2)
 
 Publish: 2017/06/12  
 Due: 2017/06/23 18:00
